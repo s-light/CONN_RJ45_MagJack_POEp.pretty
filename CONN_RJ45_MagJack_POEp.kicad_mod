@@ -28,4 +28,9 @@
   (pad GA thru_hole circle (at -5.465 -13.72) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
+  (model /home/stefan/_LocalData/projects/_KiCAD/myPartLib/CONN_RJ45_MagJack_POEp.3dshapes/CONN_RJ45_MagJack_POEp.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
